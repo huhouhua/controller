@@ -1,1 +1,1 @@
-from gitlab/gitlab-ee:17.3.0-ee.0
+from gitlab/gitlab-ee:15.11.10-ee.0
